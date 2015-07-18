@@ -1,5 +1,5 @@
 package HorizonConfluct;
 
-public class ComponentPorts {
+public class Turret {
 
 }
