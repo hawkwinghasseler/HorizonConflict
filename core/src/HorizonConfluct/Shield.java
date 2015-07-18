@@ -1,5 +1,5 @@
 package HorizonConfluct;
 
-public class Shield {
+public class Shield extends Component{
 
 }

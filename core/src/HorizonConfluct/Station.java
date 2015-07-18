@@ -1,5 +1,5 @@
 package HorizonConfluct;
 
-public class Station {
+public class Station extends Vessel{
 
 }

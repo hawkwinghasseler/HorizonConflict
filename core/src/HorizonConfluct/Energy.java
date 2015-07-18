@@ -1,5 +1,6 @@
 package HorizonConfluct;
 
-public class Energy {
-
+public class Energy extends Turret{
+	
+	
 }

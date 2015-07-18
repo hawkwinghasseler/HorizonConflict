@@ -1,5 +1,5 @@
 package HorizonConfluct;
 
-public class Vessel {
+public class Vessel extends Entity{
 
 }

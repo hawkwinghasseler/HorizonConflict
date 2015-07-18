@@ -1,5 +1,5 @@
 package HorizonConfluct;
 
-public class Turret {
+public class Turret extends Weapon{
 
 }
